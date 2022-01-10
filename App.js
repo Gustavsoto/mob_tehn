@@ -11,7 +11,7 @@ const HelloWorldApp = () => {
       }}>
       <Text>Hello world from Group 7</Text>
       <Text>Member: Gustavs Oto Cers</Text>
-      <text>This is my Gustavs Oto Cers</text>
+      <text>This is my Gustavs Oto Cers </text>
       <text>first React Native application!</text>
       <text>nice to see you here.</text>
       <Image style={{width:150, height:200}}
